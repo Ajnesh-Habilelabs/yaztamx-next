@@ -1,0 +1,12 @@
+<svg id="Component_36_1" data-name="Component 36 – 1" xmlns="http://www.w3.org/2000/svg" width="43.465" height="43.465" viewBox="0 0 43.465 43.465">
+  <g id="Group_810" data-name="Group 810" transform="translate(-36.75 -475)">
+    <g id="Ellipse_91" data-name="Ellipse 91" transform="translate(36.75 475)" fill="#3d99a7" stroke="#3d99a7" stroke-width="2">
+      <circle cx="21.732" cy="21.732" r="21.732" stroke="none"/>
+      <circle cx="21.732" cy="21.732" r="20.732" fill="none"/>
+    </g>
+    <g id="Layer_19" data-name="Layer 19" transform="translate(44.75 482)">
+      <path id="Path_4814" data-name="Path 4814" d="M14.667,14.333a6.667,6.667,0,1,1,6.667-6.667A6.667,6.667,0,0,1,14.667,14.333Zm0-11.667a5,5,0,1,0,5,5A5,5,0,0,0,14.667,2.667Z" transform="translate(-0.667 0)" fill="#fff"/>
+      <path id="Path_4815" data-name="Path 4815" d="M19.833,28.825H8.167A4.167,4.167,0,0,1,4,24.658V21.325a.833.833,0,0,1,.408-.717l4.167-2.5a.833.833,0,0,1,.833,1.433L5.667,21.8v2.858a2.5,2.5,0,0,0,2.5,2.5H19.833a2.5,2.5,0,0,0,2.5-2.5V21.8l-3.758-2.258a.833.833,0,1,1,.833-1.433l4.167,2.5a.833.833,0,0,1,.425.717v3.333a4.167,4.167,0,0,1-4.167,4.167Z" transform="translate(0 -2.825)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

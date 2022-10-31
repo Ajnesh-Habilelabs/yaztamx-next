@@ -1,0 +1,10 @@
+<svg id="Component_28_1" data-name="Component 28 – 1" xmlns="http://www.w3.org/2000/svg" width="48.377" height="44.377" viewBox="0 0 48.377 44.377">
+  <path id="Path_4850" data-name="Path 4850" d="M2.838,18.219A15.435,15.435,0,0,0,28.7,29.477c.359-.311.714-.628,1.094-.912a1.326,1.326,0,0,1,1.886,1.726,8.47,8.47,0,0,1-1.272,1.38,17.973,17.973,0,0,1-14.019,4.54A18.135,18.135,0,0,1,13.526.62c6.956-1.727,12.919.174,17.761,5.475a16.3,16.3,0,0,1,1.545,2.029,1.19,1.19,0,0,1-.364,1.7,1.181,1.181,0,0,1-1.719-.12c-.844-.892-1.627-1.844-2.489-2.718a13.281,13.281,0,0,0-7.576-3.94C11.986,1.754,5.776,6.867,3.509,13.489A12.887,12.887,0,0,0,2.838,18.219Z" transform="translate(37.763 44.377) rotate(-163)" fill="#de8706"/>
+  <path id="Icon_awesome-check-circle" data-name="Icon awesome-check-circle" d="M18.924,9.462A9.462,9.462,0,1,1,9.462,0,9.462,9.462,0,0,1,18.924,9.462ZM8.368,14.472l7.02-7.02a.61.61,0,0,0,0-.863l-.863-.863a.61.61,0,0,0-.863,0L7.936,11.451,5.263,8.778a.611.611,0,0,0-.863,0l-.863.863a.61.61,0,0,0,0,.863L7.5,14.472a.61.61,0,0,0,.863,0Z" transform="matrix(0.998, 0.07, -0.07, 0.998, 1.32, 5.033)" fill="#de8706"/>
+  <g id="Group_3521" data-name="Group 3521" transform="translate(25.649 13.705)">
+    <g id="Group_3519" data-name="Group 3519" transform="translate(0 0)">
+      <line id="Line_149" data-name="Line 149" y1="8.276" fill="none" stroke="#de8706" stroke-linecap="round" stroke-width="2"/>
+      <line id="Line_150" data-name="Line 150" x1="6.725" y1="4.655" transform="translate(0 8.276)" fill="none" stroke="#de8706" stroke-linecap="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
