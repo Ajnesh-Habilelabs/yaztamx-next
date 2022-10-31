@@ -13,6 +13,7 @@ import {
   createTheme,
   ThemeProvider,
 } from '@mui/material/styles';
+import Register from '../../../../libs/ui/src/pages/auth/register';
 import WrapperComponent from '../../../../libs/ui/src/pages/shared/wrapper';
 import Welcome from '../../../../libs/ui/src/pages/welcome';
 import FAQ from '../../../../libs/ui/src/pages/faq';
